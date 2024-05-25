@@ -1,0 +1,12 @@
+#timer {
+    font-weight: 200;
+    font-size: xx-large;
+
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
